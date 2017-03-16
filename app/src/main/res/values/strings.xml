@@ -1,0 +1,22 @@
+<resources>
+    <!-- Viết các Tiêu đề ở đây  -->
+    <string name="HeaderShowMSG">TVS ANDROID GET MESSAGE</string>
+    <string name="title_activity_sign_up"> Đăng nhập TVS</string>
+    <string name="already_a_member_login"> Đả có tài khoản , Đăng nhập ?</string>
+    <string name="pref_previously_started"> watchIntro</string>
+    <string name="web_view_with_path_query_string_id">Web view with path + query string id</string>
+    <string name="app_name"> Giá Nội Bộ </string>
+    <string name="home_name">Hộp Thư </string>
+    <!-- Home -->
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">SAVE</string>
+    <string name="action_play_next">DELETE</string>
+    <string name="backdrop_title">GiaNoiBo.Com</string>
+    <string name="backdrop_subtitle">Nhanh chóng - Hiệu quả - Tiện lợi</string>
+    <string name="text_inside_circle_button_text_normal">text normal</string>
+    <string name="text_outside_circle_button_text_normal">text outside -normal</string>
+    <string name="text_ham_button_text_normal">Đăng xuất</string>
+    <string name="text_ham_button_sub_text_normal">Sử dụng tài khoản khác để sử dụng Gianoibo.com</string>
+    <string name="text_ham_button_text_normal_link_to_web">Đi tới trang Web</string>
+    <string name="text_ham_button_sub_text_normal_link_to_web" />
+</resources>

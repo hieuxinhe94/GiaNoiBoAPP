@@ -1,0 +1,9 @@
+ Ứng dụng tạo tin nhắn thông báo trên ứng dụng di động ,phiên bản android :
+
+
+ Cấu trúc cơ bản :
+    - Các thư viện ngoài sử dụng :
+            SOAP
+
+    - Các class thông báo
+           NotificationAlert
